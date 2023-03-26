@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(18,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(47,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(48,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(57,21): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(60,21): warning C4305: '/=': truncamiento de 'double' a 'float'
+C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\CasoPractico4Trasformaciones\main.cpp(68,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+  CasoPractico4Trasformaciones.vcxproj -> C:\Users\MarioSerrato\Documents\Documentos UNACH\8° Semestre\Graficacion\CasoPractico4Trasformaciones\x64\Debug\CasoPractico4Trasformaciones.exe
